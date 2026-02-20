@@ -62,7 +62,7 @@ main:
     li $a1, 0
     addi $a2, $s1, 0
     # A: 4 6 12 17 23 29 41 45 46 51 120 123
-    li $a3, 20
+    li $a3, 12
 
     jal binary_search
 
